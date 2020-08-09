@@ -1,2 +1,2 @@
 # user-validator
-This is a simple user data validator using regular expression
+This is a simple user data validator using `regular expression`
