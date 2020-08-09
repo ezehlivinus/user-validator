@@ -1,6 +1,7 @@
 
 // I prefer that i use class instead if function(s)
-// For simplicity, I didnt implement UX feature, so I either return true or false, to indicate valid and invlid input(s), So I didnt tell where the error occur but that doing it is not a big deal
+// For simplicity, I didn't implement UX feature, so I either return true or false, to indicate valid and invlid input(s), So I didnt tell where the an error occur but 
+// doing it is not a big deal
 class User {
   constructor(fullName, email, username, birthdate, website, address) {
     this.fullName = fullName;
