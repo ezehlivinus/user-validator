@@ -91,11 +91,11 @@ class User {
 
 // You can change any of this input, and run the program again
 const user1 = new User(
-  'Ezeh Livinus', 
-  'ezeh.livinus.g20@gmail.com',
-  'ezehlivinus', '02-12-2020',
+  'Isaac Newton', 
+  'newton@gmail.com',
+  'newton', '02-12-2020',
   'www.fb.com', 
-  'No 3, Enugu Road, Enugu, State, Nigeria'
+  'No 3, Berlin Road, Germany'
   );
 
  
